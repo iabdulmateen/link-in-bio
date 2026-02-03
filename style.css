@@ -48,10 +48,8 @@ body {
     border-radius: 10px;
     font-family: 'poppins', sans-serif;
     font-weight: 500;
-    margin-left: 10px;
-}
-.social-container a i{
-    margin-right: 10px;
+    gap: 12px;
+    
 }
 .btn-whatsapp {
     background-color: white;
