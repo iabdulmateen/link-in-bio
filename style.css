@@ -33,7 +33,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 10px;
-    margin-top: 20px;
+    margin: 20px;
     width: 100%;
 }
 
@@ -80,6 +80,7 @@ body {
     border:none;
     transform: translatey(-3px);
 }
+
 
 
 
