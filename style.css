@@ -50,6 +50,9 @@ body {
     font-weight: 500;
     margin-left: 10px;
 }
+.social-container a i{
+    margin-right: 10px;
+}
 .btn-whatsapp {
     background-color: white;
     color: #000;
