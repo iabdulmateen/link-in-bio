@@ -48,6 +48,9 @@ body {
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
     gap: 12px;
+     background-color: #1877F2;
+    color: white;
+    border:none;
     transition: all 0.3s ease;
     filter: brightness(1.1);
     transform: scale(1.02);
@@ -79,6 +82,7 @@ body {
     border:none;
     transform: translatey(-3px);
 }
+
 
 
 
