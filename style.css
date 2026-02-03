@@ -49,26 +49,35 @@ body {
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
     gap: 12px;
+    transition: all 0.3s ease;
     
 }
 .social-container a i {
     margin-right: 10px; 
 }
-.btn-whatsapp {
-    background-color: white;
-    color: #000;
+.btn-whatsapp:hover{
+    background-color: #25d366;
+    color: white;
+    border:#25d366;
+    transform: translatey(-3px);
 }
 .btn-facebook {
     background-color: white;
     color: #000;
+    transform: translatey(-3px);
 }
 
 .btn-instagram {
-    background-color: white;
-    color: #000;
+    background-color: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+    color: white;
+    border:none;
+    transform: translatey(-3px);
 }
 
 .btn-linkedin {
-    background-color: white;
-    color: #000;
+    background-color:#0077B5;
+    border:#0077B5;
+    color: white;
+    transform: translatey(-3px);
+
 }
