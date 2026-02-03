@@ -67,14 +67,25 @@ body {
     border:#1877F2;
     transform: translatey(-3px);
 }
-
+.btn-instagram {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    color: white !important;
+    border: none !important;
+}
 .btn-instagram:hover{
     background-color: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
     color: white;
     border:none;
     transform: translatey(-3px);
 }
-
+.btn-instagram:hover {
+    filter: brightness(1.1);
+    transform: translateY(-3px);
+}
+.btn-linkedin {
+    background-color: white;
+    color: #000;
+}
 .btn-linkedin:hover{
     background-color:#0077B5;
     color: white;
